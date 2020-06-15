@@ -6,4 +6,3 @@ def square_array
 numbers.each do |num|
   new_numbers << num ** 2
 end
-new_numbers
